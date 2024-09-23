@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}
+    START_TXT = """<b>Hey Sona {}, {}
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>
 ɪᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs.
 ᴊᴜsᴛ ᴍᴀᴋᴇ ᴀ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ. 
