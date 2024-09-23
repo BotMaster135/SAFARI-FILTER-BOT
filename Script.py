@@ -4,7 +4,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>
 ɪᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs.
 ᴊᴜsᴛ ᴍᴀᴋᴇ ᴀ ᴍᴇ ᴀᴅᴍɪɴ ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ. 
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ᴀɴᴅ ᴅᴇᴠʟᴏᴘᴇᴅ ʙʏ : <a href=https://t.me/safaridev>ᎦᎯ೯ᎯᏒᎥ ᎴᏋᏉ ︎🜲</a>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ᴀɴᴅ ᴅᴇᴠʟᴏᴘᴇᴅ ʙʏ : <a href=https://t.me/botmaster135>botmaster135 ︎🜲</a>"""
     
     HELP_TXT = """<b>ʜᴇʏ {},
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.</b>"""
@@ -20,7 +20,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ: ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: <a href=https://github.com/Jkdeveloper01/safari-filter-bot>𝐒𝐚𝐟𝐚𝐫𝐢 𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/safaridev">ᎦᎯ೯ᎯᏒᎥ ᎴᏋᏉ ︎🜲</a></b>"""
+Dᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/botmaster135">botmaster135 ︎🜲</a></b>"""
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -112,9 +112,9 @@ BOT {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : <a href=https://t.me/safaridev>ᎦᎯ೯ᎯᏒᎥ ᎴᏋᏉ ︎🜲︎</a>
-• ᴜꜱᴇʀɴᴀᴍᴇ : @safaridev
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/safaridev>ᎦᎯ೯ᎯᏒᎥ ᎴᏋᏉ ︎🜲</a>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : <a href=https://t.me/botmaster135>botmaster135 ︎🜲︎</a>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @botmaster135
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/botmaster135>botmaster135 ︎🜲</a>"""
 
     NORSLTS = """
 #NoResult
@@ -261,22 +261,22 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ⏰ 180 ᴅᴀʏꜱ  ➛ 100₹
 ⏰ 365 ᴅᴀʏꜱ  ➛ 150₹
 
-💵 ᴜᴘɪ ɪᴅ - <code>apnamovie4@ibl</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/Scan--Pay-03-02-2'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>sarifwaj@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://i.postimg.cc/gr98YzFT/IMG-20240901-132713.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
     UPI_TXT = """<b>
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>apnamovie4@ibl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>sarifwaj@ybl/code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
     QR_TXT = """<b>
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/Scan--Pay-03-02-2'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://i.postimg.cc/gr98YzFT/IMG-20240901-132713.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
